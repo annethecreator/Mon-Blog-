@@ -2,9 +2,21 @@
 h1 {
   text-align: center;
   font-size: xx-large;
-  color: pink;
+  color: rgb(17, 121, 17);
+  background-color: yellow;
+}
+
+p {
+  background-color: blue;
+}
+
+p,
+h1 {
+  padding: 1rem;
+
+  margin: 16px;
 }
 
 body {
-  background-color: grey;
+  background-color: rgb(161, 144, 230);
 }
