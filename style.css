@@ -2,14 +2,18 @@
 h1 {
   text-align: center;
   font-size: xx-large;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif; /*comment mon carractere s'affiche*/
+  font-style: normal;
   color: rgb(17, 121, 17);
   background-color: yellow;
 }
 
+/*Texte introduction*/
 p {
   background-color: blue;
 }
 
+/*Titre et texte intro*/
 p,
 h1 {
   padding: 1rem;
